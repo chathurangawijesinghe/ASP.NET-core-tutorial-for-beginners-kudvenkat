@@ -16,3 +16,21 @@ C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\ASP.NET core tutorial f
 C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\ASP.NET core tutorial for beginners (kudvenkat)\Solution\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\ASP.NET core tutorial for beginners (kudvenkat)\Solution\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.dll
 C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\ASP.NET core tutorial for beginners (kudvenkat)\Solution\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.pdb
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\ASP.NET-core-tutorial-for-beginners-kudvenkat\Solution\EmployeeManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\ASP.NET-core-tutorial-for-beginners-kudvenkat\Solution\EmployeeManagement\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\ASP.NET-core-tutorial-for-beginners-kudvenkat\Solution\EmployeeManagement\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\ASP.NET-core-tutorial-for-beginners-kudvenkat\Solution\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.exe
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\ASP.NET-core-tutorial-for-beginners-kudvenkat\Solution\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.deps.json
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\ASP.NET-core-tutorial-for-beginners-kudvenkat\Solution\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.runtimeconfig.json
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\ASP.NET-core-tutorial-for-beginners-kudvenkat\Solution\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.runtimeconfig.dev.json
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\ASP.NET-core-tutorial-for-beginners-kudvenkat\Solution\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.dll
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\ASP.NET-core-tutorial-for-beginners-kudvenkat\Solution\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.pdb
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\ASP.NET-core-tutorial-for-beginners-kudvenkat\Solution\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.csprojAssemblyReference.cache
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\ASP.NET-core-tutorial-for-beginners-kudvenkat\Solution\EmployeeManagement\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManagement.StaticWebAssets.Manifest.cache
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\ASP.NET-core-tutorial-for-beginners-kudvenkat\Solution\EmployeeManagement\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManagement.StaticWebAssets.xml
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\ASP.NET-core-tutorial-for-beginners-kudvenkat\Solution\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\ASP.NET-core-tutorial-for-beginners-kudvenkat\Solution\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\ASP.NET-core-tutorial-for-beginners-kudvenkat\Solution\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.AssemblyInfo.cs
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\ASP.NET-core-tutorial-for-beginners-kudvenkat\Solution\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.RazorTargetAssemblyInfo.cache
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\ASP.NET-core-tutorial-for-beginners-kudvenkat\Solution\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.dll
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\ASP.NET-core-tutorial-for-beginners-kudvenkat\Solution\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.pdb

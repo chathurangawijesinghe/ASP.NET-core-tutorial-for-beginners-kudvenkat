@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\c.wijesinghe\\Documents\\Developments\\Mine\\DotNet\\ASP.NET core tutorial for beginners (kudvenkat)\\Solution\\EmployeeManagement\\EmployeeManagement.csproj",
+      "projectUniqueName": "C:\\Users\\c.wijesinghe\\Documents\\Developments\\Mine\\DotNet\\ASP.NET-core-tutorial-for-beginners-kudvenkat\\Solution\\EmployeeManagement\\EmployeeManagement.csproj",
       "projectName": "EmployeeManagement",
-      "projectPath": "C:\\Users\\c.wijesinghe\\Documents\\Developments\\Mine\\DotNet\\ASP.NET core tutorial for beginners (kudvenkat)\\Solution\\EmployeeManagement\\EmployeeManagement.csproj",
+      "projectPath": "C:\\Users\\c.wijesinghe\\Documents\\Developments\\Mine\\DotNet\\ASP.NET-core-tutorial-for-beginners-kudvenkat\\Solution\\EmployeeManagement\\EmployeeManagement.csproj",
       "packagesPath": "C:\\Users\\c.wijesinghe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\c.wijesinghe\\Documents\\Developments\\Mine\\DotNet\\ASP.NET core tutorial for beginners (kudvenkat)\\Solution\\EmployeeManagement\\obj\\",
+      "outputPath": "C:\\Users\\c.wijesinghe\\Documents\\Developments\\Mine\\DotNet\\ASP.NET-core-tutorial-for-beginners-kudvenkat\\Solution\\EmployeeManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
